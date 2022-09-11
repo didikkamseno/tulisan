@@ -28,4 +28,4 @@ Terima kasih,
 
 ---
 
-Semoga bermanfaat!
+Semoga bermanfaat ya!
