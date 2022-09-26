@@ -83,8 +83,8 @@ const Layout = ({ location, title, children }) => {
           Ksana.in
         </a>
         <span>, </span>
-        <a href="https://pramuka.online" target="_blank" rel="noopener noreferrer">
-          Pramuka.Online
+        <a href="https://didikkamseno.com" target="_blank" rel="noopener noreferrer">
+          Personal Web
         </a>
       </footer>
     </div>
