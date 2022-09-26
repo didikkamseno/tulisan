@@ -70,8 +70,8 @@ const Layout = ({ location, title, children }) => {
         <br />
         Built with ❤️ by
         {` `}
-        <a target="_blank" rel="noopener noreferrer" href="https://mazipan.space/">
-          Irfan Maulana
+        <a target="_blank" rel="noopener noreferrer" href="https://didikkamseno.com/">
+          Didik Kamseno
         </a>
         <br /><br />
         <a href="https://www.baca-quran.id/stories/">
@@ -83,8 +83,8 @@ const Layout = ({ location, title, children }) => {
           Ksana.in
         </a>
         <span>, </span>
-        <a href="https://pramuka.online" target="_blank" rel="noopener noreferrer">
-          Pramuka.Online
+        <a href="https://didikkamseno" target="_blank" rel="noopener noreferrer">
+          Personal Website
         </a>
       </footer>
     </div>
