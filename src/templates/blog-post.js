@@ -64,6 +64,17 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           >
             Twitter
           </a>
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(
+              post.frontmatter.title,
+            )}&url=${encodeURIComponent('https://web.whatsapp.com://send?text' + location.pathname)}&title=${encodeURIComponent(post.frontmatter.title)}&description=${encodeURIComponent(
+              post.frontmatter.description,
+            )}`}
+          >
+            Whatsapp
+          </a>
           <br />
           Perbaiki artikel di {` `}
           <a
